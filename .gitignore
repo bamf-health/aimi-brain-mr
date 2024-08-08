@@ -163,8 +163,8 @@ cython_debug/
 
 # folder
 data/
-qa-results/
+qa_results/
 
-# files
+# files 
 *.dcm
 *.nii.gz
